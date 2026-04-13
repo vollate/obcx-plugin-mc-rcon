@@ -1,0 +1,17 @@
+[plugin]
+name = "mc_rcon"
+version = "1.0.0"
+description = "Minecraft RCON control plugin for OBCX"
+authors = ["vollate"]
+license = "MIT"
+homepage = "https://github.com/vollate/obcx-plugin-mc-rcon"
+
+[compatibility]
+obcx_abi_version = 1
+obcx_min_version = "1.1.0"
+
+[dependencies]
+required_plugins = []
+
+[build]
+vcpkg_deps = ["tomlplusplus"]
