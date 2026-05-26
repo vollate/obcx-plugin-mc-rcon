@@ -1,8 +1,8 @@
 [plugin]
-name = "mc_rcon"
+name = "mc-rcon"
 version = "1.0.0"
-description = "Minecraft RCON control plugin for OBCX"
-authors = ["vollate"]
+description = "Minecraft RCON control plugin"
+authors = ["Vollate"]
 license = "MIT"
 homepage = "https://github.com/vollate/obcx-plugin-mc-rcon"
 
